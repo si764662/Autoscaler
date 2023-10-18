@@ -1,0 +1,19 @@
+2023-10-18 11:41:55- root - INFO - current replicas: 9
+2023-10-18 11:41:55- root - INFO - current CPU utilization: 90
+2023-10-18 11:41:55- root - INFO - scalling up the replicas
+2023-10-18 11:41:55- root - INFO - scaled up the no of replicas: 12
+2023-10-18 11:42:04- root - INFO - current replicas: 12
+2023-10-18 11:42:04- root - INFO - current CPU utilization: 87
+2023-10-18 11:42:04- root - INFO - scalling up the replicas
+2023-10-18 11:42:04- root - INFO - scaled up the no of replicas: 15
+2023-10-18 11:42:09- root - INFO - current replicas: 15
+2023-10-18 11:42:09- root - INFO - current CPU utilization: 48
+2023-10-18 11:42:09- root - INFO - scalling down the replicas
+2023-10-18 11:42:09- root - INFO - scaled down the replicas: 12
+2023-10-18 11:42:15- root - INFO - current replicas: 12
+2023-10-18 11:42:15- root - INFO - current CPU utilization: 63
+2023-10-18 11:42:15- root - INFO - CPU usage is within threshold
+2023-10-18 11:42:22- root - INFO - current replicas: 12
+2023-10-18 11:42:22- root - INFO - current CPU utilization: 90
+2023-10-18 11:42:22- root - INFO - scalling up the replicas
+2023-10-18 11:42:24- root - INFO - scaled up the no of replicas: 15
